@@ -1,0 +1,103 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Salary credit",
+      "amount": 50000.0,
+      "category": "Income",
+      "date": "2026-05-01",
+      "created_at": "2026-05-06T17:29:45.936701"
+    },
+    {
+      "id": 2,
+      "description": "Swiggy dinner",
+      "amount": -450.5,
+      "category": "Food",
+      "date": "2026-05-02",
+      "created_at": "2026-05-06T17:29:45.936701"
+    },
+    {
+      "id": 3,
+      "description": "Uber trip to office",
+      "amount": -320.0,
+      "category": "Transport",
+      "date": "2026-05-03",
+      "created_at": "2026-05-06T17:29:45.936701"
+    },
+    {
+      "id": 4,
+      "description": "BigBasket groceries",
+      "amount": -1850.75,
+      "category": "Food",
+      "date": "2026-05-04",
+      "created_at": "2026-05-06T17:29:45.936701"
+    },
+    {
+      "id": 5,
+      "description": "Freelance project payment",
+      "amount": 12000.0,
+      "category": "Income",
+      "date": "2026-05-05",
+      "created_at": "2026-05-06T17:29:45.936701"
+    },
+    {
+      "id": 6,
+      "description": "Metro card recharge",
+      "amount": -500.0,
+      "category": "Transport",
+      "date": "2026-05-06",
+      "created_at": "2026-05-06T17:29:45.936701"
+    },
+    {
+      "id": 7,
+      "description": "Coffee with client",
+      "amount": -280.0,
+      "category": "Food",
+      "date": "2026-05-06",
+      "created_at": "2026-05-06T17:29:45.936701"
+    },
+    {
+      "id": 8,
+      "description": "Movie tickets",
+      "amount": -760.0,
+      "category": "Misc",
+      "date": "2026-05-07",
+      "created_at": "2026-05-06T17:29:45.936701"
+    },
+    {
+      "id": 9,
+      "description": "Electricity bill",
+      "amount": -2150.0,
+      "category": "Misc",
+      "date": "2026-05-08",
+      "created_at": "2026-05-06T17:29:45.936701"
+    },
+    {
+      "id": 10,
+      "description": "Interest credit",
+      "amount": 350.25,
+      "category": "Income",
+      "date": "2026-05-09",
+      "created_at": "2026-05-06T17:29:45.936701"
+    }
+  ],
+  "budgets": {
+    "Food": 8000.0,
+    "Transport": 3000.0,
+    "Misc": 10000.0,
+    "Medicine": 0.0,
+    "Entertainment": 0.0
+  },
+  "custom_categories": [
+    "anna"
+  ],
+  "learning_examples": [
+    {
+      "original_description": "asd",
+      "description": "asd",
+      "category": "Misc",
+      "count": 1,
+      "updated_at": "2026-05-14T09:31:58.513420"
+    }
+  ]
+}
